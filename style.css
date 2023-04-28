@@ -1,0 +1,44 @@
+@import url(./cards.css);
+
+body {
+  background-color: black;
+  color: green;
+  font-family: 'Red Hat Mono', monospace;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+a:hover {
+  border: 1px solid green;
+  color: green;
+}
+
+#main-menu {
+  margin: auto;
+  margin-top: 30vh;
+  border: 1px solid green;
+  width: 50vh;
+}
+
+.menu {
+  width: 20vh;
+  margin: auto;
+  text-align: center;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}

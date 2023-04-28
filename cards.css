@@ -1,0 +1,14 @@
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+  margin-top: 20vh;
+}
+
+.card {
+  padding: 2vh;
+  border: 1px solid green;
+  background-color: black;
+  width: 30%
+
+}
